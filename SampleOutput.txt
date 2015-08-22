@@ -1,0 +1,62 @@
+**INPUT :
+BWBXXXBWWWWBXBWBXBXWWXB
+
+Depth = 3
+
+
+**OUTPUT:
+1) ABGame.java
+BoardPosition: BWBxxWBxWWWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 271
+
+MINIMAX Estimate: -6
+
+2) ABOpening.java
+BoardPosition: BWBWxxBWWWWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 74
+
+MINIMAX Estimate: 0
+
+3) MiniMaxGame.java
+BoardPosition: BWBxxWBxWWWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 642
+
+MINIMAX Estimate: -6
+
+4) MiniMaxGameBlack.java
+BoardPosition: BWxxxBBWWWWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 1069
+
+MINIMAX Estimate: 990
+
+5) MiniMaxGameImproved.java
+BoardPosition: BWBWxxBWWxWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 642
+
+MINIMAX Estimate: 1985
+
+6) MiniMaxOpening.java
+BoardPosition: BWBWxxBWWWWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 638
+
+MINIMAX Estimate: 0
+
+7) MiniMaxOpeningBlack.java
+BoardPosition: BxBBxxBWWWWBxBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 1158
+
+MINIMAX Estimate: 3
+
+8) MiniMaxOpeningImproved.java
+BoardPosition: BWBxxxBWWWWBWBWBxBxWWxB
+
+Positions Evaluated By Static Estimation: 638
+
+MINIMAX Estimate: 1
